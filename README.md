@@ -1,2 +1,2 @@
 # Time-Gen-OneDay
-Repo to Generate from current time to until it Becomes next day~
+Repo to Generate time from current time to until it Becomes next day~
